@@ -2,7 +2,6 @@
 
 Grid-searching can be applied across machine learning to calculate the best parameters to use for any given model.
 Grid search is the process of performing hyper parameter tuning in order to determine the optimal values for a given model. This is significant as the performance of the entire model is based on the hyper parameter values specified.
-
 The parameters of the estimator used to apply these methods are optimized by cross-validated grid-search over a parameter grid.
 
 ## Software and Libraries
